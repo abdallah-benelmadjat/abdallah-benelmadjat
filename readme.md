@@ -6,6 +6,7 @@
 </p>
 
 <!-- ───────────────────────────────  ABOUT ME  ─────────────────────────────── -->
+text
 🔭  I’m building AI-driven tools to cut industrial energy use & wind-turbine noise  
 📚  Thesis – GA + DL optimisation of blade aero-acoustics  
 🏆  Fulbright alumnus | DOE IAC energy engineer  
@@ -22,11 +23,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
 
 **CAD / Simulation**  
-<img src="https://cdn.worldvectorlogo.com/logos/solidworks-1.svg" alt="solidworks" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/ansys-1.svg" alt="ansys" width="40"/> 
+<img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40"/> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png" alt="ansys" width="40"/> 
 
-<!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── --> 
-<h3>Portfolio</h3>
+<!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── --> <h3>Portfolio</h3>
 🌐  Personal site
 
 <!-- ─────────────────────────────── SOCIALS ──────────────────────────────── --> 
-<h3>Connect</h3> <a href="mailto:benelma2@uwm.edu"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/> </a> <a href="https://www.linkedin.com/in/benelmadjat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/> </a>
+<h3>Connect</h3> <a href="mailto:benelma2@uwm.edu"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/> </a> <a href="https://www.linkedin.com/in/benelmadjat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/> </a> ```
