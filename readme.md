@@ -1,15 +1,3 @@
-<!-- ────────────────────────────────  HEADER  ──────────────────────────────── -->
-<h1 align="center">Hi there, I’m <strong>Abe Benelmadjat</strong> 👋</h1>
-<p align="center">
-  Certified Energy Manager • PhD Candidate (Mechanical Eng.) • AI Researcher @ UWM CSI  
-  <br>Milwaukee | <code>Energy ⚙️ AI 🤖 Sustainability 🌱</code>
-</p>
-
-<!-- ───────────────────────────────  ABOUT ME  ─────────────────────────────── -->
-🔭  I’m building AI-driven tools to cut industrial energy use & wind-turbine noise  
-📚  Thesis – GA + DL optimisation of blade aero-acoustics  
-🏆  Fulbright alumnus | DOE IAC Energy Engineer  
-<!-- ──────────────────────────────── SKILLS ──────────────────────────────── -->
 <h3>Tech Stack</h3>
 
 **Data / Programming**  
@@ -26,7 +14,7 @@
 
 <!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── -->
 <h3>Portfolio</h3>
-🌐  [Personal Website](https://abe-ben.dev)
+🌐 https://abe-ben.dev
 
 <!-- ─────────────────────────────── SOCIALS ──────────────────────────────── --> 
-<h3>Connect</h3> <a href="mailto:benelma2@uwm.edu"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/> </a> <a href="https://www.linkedin.com/in/benelmadjat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/> </a> ```
+<h3>Connect</h3> <a href="mailto:benelma2@uwm.edu"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/> </a> <a href="https://www.linkedin.com/in/benelmadjat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/> </a>
