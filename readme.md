@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
 
 **CAD / Simulation**  
-<img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40"/> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png" alt="ansys" width="40"/> 
+<img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40"/> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png" alt="ansys" width="40"/> <img src="https://www.openfoam.com/themes/bs4esi/favicons/apple-touch-icon.png" alt="ansys" width="40"/> <img src="https://mutaz.net/img/win/358175Siemens%20Star%20CCM+.png" alt="ansys" width="40"/> 
 
 <!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── -->
 <h3>Portfolio</h3>
