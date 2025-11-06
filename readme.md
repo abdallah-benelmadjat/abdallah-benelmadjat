@@ -25,8 +25,9 @@ text
 **CAD / Simulation**  
 <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="solidworks" width="40"/> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png" alt="ansys" width="40"/> 
 
-<!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── --> <h3>Portfolio</h3>
-🌐  Personal site
+<!-- ──────────────────────────────── PORTFOLIO ─────────────────────────────── -->
+<h3>Portfolio</h3>
+🌐  [Personal Website](https://abe-ben.dev)
 
 <!-- ─────────────────────────────── SOCIALS ──────────────────────────────── --> 
 <h3>Connect</h3> <a href="mailto:benelma2@uwm.edu"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/> </a> <a href="https://www.linkedin.com/in/benelmadjat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/> </a> ```
