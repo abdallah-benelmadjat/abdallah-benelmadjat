@@ -6,7 +6,6 @@
 </p>
 
 <!-- ───────────────────────────────  ABOUT ME  ─────────────────────────────── -->
-text
 🔭  I’m building AI-driven tools to cut industrial energy use & wind-turbine noise  
 📚  Thesis – GA + DL optimisation of blade aero-acoustics  
 🏆  Fulbright alumnus | DOE IAC energy engineer  
